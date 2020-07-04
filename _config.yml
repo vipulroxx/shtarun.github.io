@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Tarun Sharma"
 title_separator          : "-"
 name                     : &name "Tarun"
 description              : &description "personal description"
@@ -84,10 +84,10 @@ author:
   avatar           : "Tarun Sharma.jpeg"
   bio              : "Revuse"
   location         : "IIT Kanpur"
-  employer         :
+  employer         : 
   pubmed           : 
   googlescholar    :
-  email            :
+  email            : "work.tarunsharma@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
