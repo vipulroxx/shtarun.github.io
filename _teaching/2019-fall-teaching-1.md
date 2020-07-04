@@ -9,4 +9,4 @@ location: "Kanpur, India"
 ---
 
 * Worked as a Teaching Assistant for the course ME321A compulsory for the junior undergraduates in the Department of Mechanical Engineering
-* Assisted Prof. Ishan Sharma in his conduction of the course, instructed a group of 100+ students in weekly laboratory sessions and graded their assignments
+* Assisted [Prof. Ishan Sharma](http://home.iitk.ac.in/~ishans/i/Welcome.html) in his conduction of the course, instructed a group of 100+ students in weekly laboratory sessions and graded their assignments
