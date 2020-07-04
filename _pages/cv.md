@@ -12,7 +12,7 @@ redirect_from:
 
 <iframe src="/files/Biodata_Tarun_Sharma.pdf" width="100%" height="700"></iframe>
 
-### [Download Resume from here!](https://drive.google.com/file/d/15ZJQfbW7YlmImAbfwiqda0DE1VxZ3aBo/view)
+### [Download Resume from here!](https://drive.google.com/file/d/1SqdBtBK092L1k8hkMtueLxbV5jdztVQJ/view?usp=sharing)
 ---
 
 <!--  Education
