@@ -4,7 +4,8 @@ title: "Positions of Responsibility"
 permalink: /responsibilities/
 author_profile: true
 ---
-Work experience
+
+President, Association of Mechanical Engineers, IIT Kanpur
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -16,7 +17,7 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
+Secratory, SIP
 ======
 * Skill 1
 * Skill 2
