@@ -4,7 +4,7 @@ collection: responsibilities
 permalink: /responsibilities/AME/
 ---
 
-AME
+Association of Mechanical Engineers IIT Kanpur
 Project Description
 ---
 
