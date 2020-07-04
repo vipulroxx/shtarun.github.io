@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Assistant working under Prof. Nalinaksh S. Vyas in Mission Office, Indian Institute of Technology Kanpur. I completed my B.Tech-M.Tech Dual Degree in 2020 in Mechanical Engineering from Indian Institute of Technology Kanpur. My research interests are in the field of Dynamics, Vibration and Control, Robotics. I like working on mathematical modeling and simulation, which intrigues me to visualize every new problem as a blend of the concepts of various fields and enjoy the mathematics behind it.
+I am a Research Assistant working under Prof. Nalinaksh S. Vyas at Mission Lab, Indian Institute of Technology Kanpur. I completed my B.Tech-M.Tech Dual Degree in 2020 in Mechanical Engineering from Indian Institute of Technology Kanpur. I have a multitude research interest, some of which are in the field of Multibody Dynamics, Vibration and Control, Robotics and Finite Element Modelling. I like working on mathematical modeling and simulation, which intrigues me to visualize every new problem as a blend of the concepts of various fields and enjoy the mathematics and physics behind it.
 
 <!-- The best part of the research is when you just smile at a challenging problem realizing the scope of the problem and the learning through the process. -->
 
@@ -16,7 +16,7 @@ I am a Research Assistant working under Prof. Nalinaksh S. Vyas in Mission Offic
 
 <!-- Being an automotive enthusiast, my college life was mainly spent in building various full-scale vehicles, be it a 4WD-AWS Electric vehicle, a Formula Student vehicle or an All-terrain vehicle.   -->
 
-I have recently completed my work on Primary Suspension Redesign of Railway Bogie for Improved Fatigue Life for my master's thesis under the guidance of [Prof. Nalinaksh S. Vyas](http://home.iitk.ac.in/~vyas/) and [Prof. Chandraprakash Chindam](http://home.iitk.ac.in/~chindamc/). The design improvements suggested in the thesis have been accepted by Indian Railways and will roll out in production soon for all the LHB Bogies in India. I'm working as a Senior Research Associate in Mission Lab, IIT Kanpur under [Prof. Nalinaksh S. Vyas](http://home.iitk.ac.in/~vyas/).
+I have recently completed my work on Primary Suspension Redesign of Railway Bogie for Improved Fatigue Life for my master's thesis under the guidance of [Prof. Nalinaksh S. Vyas](http://home.iitk.ac.in/~vyas/) and [Prof. Chandraprakash Chindam](http://home.iitk.ac.in/~chindamc/). The design improvements suggested in the thesis have been accepted by Indian Railways and will roll out in production soon for all the FIAT type bogies used in LHB Coaches in India. I'm currently working as a Senior Research Associate in Mission Lab, IIT Kanpur under [Prof. Nalinaksh S. Vyas](http://home.iitk.ac.in/~vyas/).
 
 
 Apart from academics, I like to cook and learn various recipes, love eating (Cheeseburst pizza, Vanilla Icecream and Litti-chokha tops my list) and like countryside travelling a lot. I'm also an adventure enthusiast with an interest in sports which give adrenaine rush. I also like indulging in various sports like cricket, football, basketball, swimming and would like to learn tennis, archery and shooting someday.
