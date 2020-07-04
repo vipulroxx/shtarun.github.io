@@ -8,6 +8,5 @@ date: 2019-08-01
 location: "Kanpur, India"
 ---
 
-* Worked as a Teaching Assistant for the course Controls lab  compulsory for the junior undergraduates in the Department of Mechanical Engineering
-•	Assisting Prof. Ishan Sharma in his conduction of course Advanced Mechanics of Solids (ME321A)
-•	Instructing a group of 100+ students in weekly laboratory sessions of the course and grading the assignments
+* Worked as a Teaching Assistant for the course ME321A compulsory for the junior undergraduates in the Department of Mechanical Engineering
+* Assisted Prof. Ishan Sharma in his conduction of the course, instructed a group of 100+ students in weekly laboratory sessions and graded their assignments
