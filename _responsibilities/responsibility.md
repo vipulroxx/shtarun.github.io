@@ -1,7 +1,7 @@
 ---
 title: 'Positions of Responsibilty'
 collection: PORs
-permalink: /responsibilities/ # responsibilities/
+permalink: /responsibilities/
 ---
 
 Will Update Soon. Work in progress...
