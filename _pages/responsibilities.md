@@ -20,14 +20,13 @@ Orientation Team Member, Counselling Service, IIT Kanpur
 *July 2019 – August 2019*
 * Assisted Core team in the smooth conduction of 8-day long Orientation Program for 1000+ 1st  year PG students
 * Involved in Hall Allocation and CC-PI of more than 1000 students
-=====
 
-Senior Executive, *Start-up Internship Program, Entrepreneurship Cell, IIT Kanpur*
+Senior Executive, Start-up Internship Program, Entrepreneurship Cell, IIT Kanpur
 ======
 *November 2016 – March 2017*
 * Piloted a 5 membered team to organize Summer’17 Internship program while managing the website and logistics
 * Contacted 200+ companies to take part in Start-up Internship Program 2017 for various profiles in core and non- core departments
-=====
+
 
 
 <!--
