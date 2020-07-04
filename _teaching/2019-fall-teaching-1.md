@@ -1,9 +1,9 @@
 ---
 title: "ME321A: Advanced Mechanics of Solids"
 collection: teaching
-type: "Compulsory Undergraduate Course"
+type: "Undergraduate Department Compulsory Course"
 permalink: /teaching/2019-fall-teaching-1
-venue: "IIT Kanpur, Mechanical Engineering"
+venue: "Dept. of Mechanical Engineering, IIT Kanpur"
 date: 2019-08-01
 location: "Kanpur, India"
 ---
