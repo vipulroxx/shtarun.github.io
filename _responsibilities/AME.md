@@ -1,6 +1,6 @@
 ---
 title: 'President'
-collection: projects
+collection: responsibilities
 permalink: /responsibilities/AME/
 ---
 
