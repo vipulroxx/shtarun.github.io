@@ -1,10 +1,12 @@
 ---
-title: 'Positions of Responsibilty'
-collection: responsibilities
-permalink: /responsibilities/
+title: 'President'
+collection: projects
+permalink: /responsibilities/AME/
 ---
 
-Will Update Soon. Work in progress...
-
+AME
 Project Description
+---
+
+[Project Report](http://exampleurl.com)
 ---
