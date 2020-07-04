@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Positions of Responsibility"
+title: ""
 permalink: /responsibilities/
 author_profile: true
 ---
@@ -20,8 +20,7 @@ Orientation Team Member, Counselling Service, IIT Kanpur
   * Involved in Hall Allocation and CC-PI of more than 1000 students
 
 
-Senior Executive, Start-up Internship Program, Entrepreneurship Cell, 
-IIT Kanpur
+Senior Executive, Start-up Internship Program, Entrepreneurship Cell, IIT Kanpur
 ======
 * Nov’16 – Mar’17
   * Piloted a 5 membered team to organize Summer’17 Internship program while managing the website and logistics
