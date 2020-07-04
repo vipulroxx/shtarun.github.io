@@ -1,6 +1,6 @@
 ---
 title: 'Positions of Responsibilty'
-collection: PORs
+collection: responsibilities
 permalink: /responsibilities/
 ---
 
