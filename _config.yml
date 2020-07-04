@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tarun Sharma"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Tarun"
 description              : &description "personal description"
