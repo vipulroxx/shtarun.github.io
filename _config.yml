@@ -11,9 +11,9 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Tarun"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://shtarun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "shtarun/shtarun.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Tarun Sharma"
-  avatar           : "profile.png"
+  avatar           : "Tarun Sharma.jpeg"
   bio              : "Revuse"
   location         : "IIT Kanpur"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         : "tarun.sharma97"
   foursquare       :
-  github           : "tarunsharma-github"
+  github           : "shtarun"
   google_plus      :
   keybase          :
   instagram        : "i.am.tarun"
