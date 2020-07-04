@@ -8,6 +8,13 @@ redirect_from:
 ---
 
 {% include base_path %}
+---
+
+<iframe src="/files/Biodata_Tarun_Sharma.pdf" width="100%" height="700"></iframe>
+
+### [Download Resume from here!](https://drive.google.com/file/d/15ZJQfbW7YlmImAbfwiqda0DE1VxZ3aBo/view)
+---
+
 
 Education
 ======
