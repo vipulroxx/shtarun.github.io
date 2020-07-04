@@ -247,7 +247,7 @@ defaults:
   # _responsibilities
   - scope:
       path: ""
-      type: projects
+      type: responsibilities
     values:
       layout: single
       author_profile: true
