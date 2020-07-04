@@ -10,23 +10,14 @@ redirect_from:
 
 I am a Research Assistant working under Prof. Nalinaksh S. Vyas at Mission Lab, Indian Institute of Technology Kanpur. I completed my B.Tech-M.Tech Dual Degree in 2020 in Mechanical Engineering from Indian Institute of Technology Kanpur. I have a multitude research interest, some of which are in the field of Multibody Dynamics, Vibration and Control, Robotics and Finite Element Modelling. I like working on mathematical modeling and simulation, which intrigues me to visualize every new problem as a blend of the concepts of various fields and enjoy the mathematics and physics behind it.
 
-<!-- The best part of the research is when you just smile at a challenging problem realizing the scope of the problem and the learning through the process. -->
-
-<!-- I'm currently working on "Gait Planning and Optimization for a Biped, using concepts of Geometric Control". -->
-
-<!-- Being an automotive enthusiast, my college life was mainly spent in building various full-scale vehicles, be it a 4WD-AWS Electric vehicle, a Formula Student vehicle or an All-terrain vehicle.   -->
-
 I have recently completed my work on Primary Suspension Redesign of Railway Bogie for Improved Fatigue Life for my master's thesis under the guidance of [Prof. Nalinaksh S. Vyas](http://home.iitk.ac.in/~vyas/) and [Prof. Chandraprakash Chindam](https://chandraprakashster.wixsite.com/chan). The design improvements suggested in the thesis have been accepted by Indian Railways and will roll out in production soon for all the FIAT type bogies used in LHB Coaches of India. I'm currently working as a Senior Research Associate in Mission Lab, IIT Kanpur under [Prof. Nalinaksh S. Vyas](http://home.iitk.ac.in/~vyas/).
 
-
-Apart from academics, I like to cook and learn various recipes, love eating (Cheeseburst pizza, Vanilla Icecream and Litti-chokha tops my list) and like countryside travelling a lot. I'm also an adventure enthusiast with an interest in sports which give adrenaine rush. I also like indulging in various sports like cricket, football, basketball, swimming and would like to learn tennis, archery and shooting someday.
+Apart from academics, I enjoy cooking and learning various recipes, love eating (Cheeseburst pizza, Vanilla Icecream and Litti-chokha tops my list) and like travelling and exploring the countryside. I'm also an adventure enthusiast and an adrenaline junkie. I also like indulging in various sports like cricket, football, basketball, swimming from time to time and would like to learn tennis, archery and shooting in the near future. I have made multiple unsuccessful attempts at reading novels and would like to read the various books sitting idle on my shelf one day. 
 <!-- I've recently developed an interest in Psychology and a habit of reading novels.   -->
 ---
 
 "Courage is willingness to take the risk once you know the odds. Optimistic overconfidence means you are taking the risk because you don't know the odds. It's a big difference." ― Daniel Kahneman
-<!-- The trouble with the rat race is that even if you win, you're still a rat. - Lily Tomlin -->
 
-<!-- "If only it were all so simple! If only there were evil people somewhere insidiously committing evil deeds, and it were necessary only to separate them from the rest of us and destroy them. But the line dividing good and evil cuts through the heart of every human being. And who is willing to destroy a piece of his own heart?" ― Aleksandr Solzhenitsyn -->
 ---
 
 <!-- A data-driven personal website
