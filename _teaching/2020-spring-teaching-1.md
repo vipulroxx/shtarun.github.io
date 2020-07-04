@@ -1,9 +1,9 @@
 ---
 title: "TA101A: Engineering Graphics"
 collection: teaching
-type: "Compulsory Undergraduate Course"
+type: "Undergraduate Compulsory Institute Core Course"
 permalink: /teaching/2020-spring-teaching-1
-venue: "IIT Kanpur, Mechanical Engineering"
+venue: "IIT Kanpur"
 date: 2020-02-01
 location: "Kanpur, India"
 ---
