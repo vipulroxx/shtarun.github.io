@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "PORs"
+title: "Positions of Responsibility"
 permalink: /responsibilities/
 author_profile: true
 ---
