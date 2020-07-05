@@ -5,6 +5,15 @@ permalink: /responsibilities/
 author_profile: true
 ---
 
+
+{% include base_path %}
+
+{% for post in site.projects reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+<!--
+
 President, Association of Mechanical Engineers, IIT Kanpur
 ======
 *August 2019 - June 2020*
@@ -27,7 +36,7 @@ Senior Executive, Start-up Internship Program, Entrepreneurship Cell, IIT Kanpur
 * Piloted a 5 membered team to organize Summer’17 Internship program while managing the website and logistics
 * Contacted 200+ companies to take part in Start-up Internship Program 2017 for various profiles in core and non- core departments
 
-
+-->
 
 <!--
 {% include base_path %}
