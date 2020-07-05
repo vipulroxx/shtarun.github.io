@@ -7,7 +7,7 @@ author_profile: true
 
 President, Association of Mechanical Engineers, IIT Kanpur
 ======
-*August 2019 - June 2020*   paperurl: 'http://academicpages.github.io/files/paper1.pdf' *[Report](http://shtarun.github.io/files/Biodata_Tarun_Sharma.pdf)*
+*August 2019 - June 2020*  *[Report](http://shtarun.github.io/_responsibilities/AME Annual Report 2019-2020.pdf)*
 * Overall Coordinator of the team
 * Sole Incharge of administering the expenditure of a budget of 1.5 Lacs for yearlong conduction of workshops & Research Scholars’ Day
 * Spearheaded a 3 tier team of 15 PG and UG students for efficient management of logistics and interactions between 700+ students & 45+ faculties
