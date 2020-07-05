@@ -1,7 +1,6 @@
 ---
 title: 'Supervised Learning using Deep Neural Networks'
 collection: projects
-<!-- permalink: /projects/01_/-->
 ---
 
 ---
