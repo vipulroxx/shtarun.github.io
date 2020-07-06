@@ -8,7 +8,7 @@ permalink: /projects/Multibody/
 
 ---
 
-[Project Report](./files/Project_Reports/RRVD_Combined_Report.pdf)
+[Project Report](../files/Project_Reports/RRVD_Combined_Report.pdf)
 
 ---
 *Supervisor: Prof. Nalinash S. Vyas*
