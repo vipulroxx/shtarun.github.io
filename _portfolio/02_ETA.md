@@ -5,6 +5,7 @@ collection: portfolio
 
 ---
 *Project Supervisor: Mr. Santhosh Kumar, Director*  
+*[Report](https://drive.google.com/file/d/1gQSWn4veyOLEN_4VV_m_KN8YV4T48y_y/view?usp=sharing)*
 *	Designed and developed an axially frictionless Hydrostatic Bearing for withstanding 60000 kgf of radial force
 *	Deployed Solidworks and AutoCAD for designing components of a Friction Welding Machine 
 *	Optimized parameters of an Electrical Upsetting and Metal Gathering Machine to get desired valve profile
