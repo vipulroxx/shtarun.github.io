@@ -1,13 +1,13 @@
 ---
-title: 'Structure Integrated Sensors and Actuators to Monitor and Renew Machine Tool Deformance'
+title: 'Finite Element Analysis of Railway Couplers used in LHB Bogies'
 collection: projects
 permalink: /projects/BoringBar/
 ---
 
 
 ---
-*Supersvisor: Prof. Mohit Law*
-* Worked as a Student Research Associate in Machine Tool Dynamics Lab, IIT Kanpur	
-*	Designed a Tuned Mass Damped Boring Bar and a Compression Holder using DS Solidworks
-*	Used CutPro for modal testing of the developed Tuned Mass Damped Boring Bar and an Eddy Current Damped Boring Bar
-*	Optimized the mass and stiffness of the tuned mass using Maple & MATLAB for chatter elimination and higher Material Removal Rate
+*Supersvisor: Prof. Nalinaksh S. Vyas*
+* Worked as a Student Research Associate in Vibration Lab, IIT Kanpur	
+*	Provided Frontier Technologies Pvt. Ltd. with the Finite Element Models of Railway Couplers used in LHB Bogies in India.
+* Used ANSYS to verify the CAD model of the coupler assembly and performed FEA for various loading conditions like Buff, Draft & Bending to check the Equivalent Von-Mises Stress distribution, total deformation and Directional deformation of the coupler.
+*	Simulated the Anti Climbing Feature of the coupler assembly in ANSYS under 45 tonnes of force.
