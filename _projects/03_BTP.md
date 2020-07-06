@@ -3,8 +3,9 @@ title: 'Design & Development of an Electromagnetic Actuator'
 collection: projects
 permalink: /projects/BTP/
 excerpt: "B.Tech. Project"
----
 
+---
+ 
 
 ---
 
