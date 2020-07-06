@@ -1,6 +1,6 @@
 ---
 title: "<img src='/images/Tata_Steel_Logo_H200.png'><br/><br/>R&D, Tata Steel Ltd., Jamshedpur "
-excerpt: "Summer Internship : May 2017 - June 2017"
+excerpt: "Summer Internship : May 2017 - June 2017<br/><br/>"
 collection: portfolio
 
 ---
