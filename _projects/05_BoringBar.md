@@ -5,6 +5,7 @@ permalink: /projects/BoringBar/
 ---
 
 ---
+[Project Report](http://exampleurl.com)
 
 ---
 *Supersvisor: Prof. Mohit Law*
