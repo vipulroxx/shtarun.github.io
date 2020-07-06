@@ -4,7 +4,7 @@ collection: projects
 permalink: /projects/online_course_projects/
 ---
 
-This section includes all projects done on online pltaforms like Coursera.
+This section includes all projects done on online platforms like Coursera.
 
 ---
 
