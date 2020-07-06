@@ -11,7 +11,8 @@ permalink: /projects/Multibody/
 [Project Report](http://exampleurl.com)
 
 ---
-  * Worked as a Student Research Associate under Prof. Nalinaksh S. Vyas at Mission Lab, IIT Kanpur   
+*Supervisor: Prof. Nalinash S. Vyas*
+  * Worked as a Student Research Associate at Mission Lab, IIT Kanpur   
   *	Lateral Dynamics - With given track – wheel geometry, contact patch co-ordinates were determined as a function of lateral perturbation by solving the kinematic equations. With geometry as input, equations of motion were solved iteratively on MATLAB to get forces at each time step and further estimate critical speed of stability
   *	Longitudinal Dynamics – Observed the response characteristics of the model of a railway coupler by varying source frequency, spring stiffness, draft gear friction and coupler slack
   *	Software Modelling – Developed a model of rail-wheel pair in Simpack, and observed the motion in a straight track, by varying the wheel positions  
