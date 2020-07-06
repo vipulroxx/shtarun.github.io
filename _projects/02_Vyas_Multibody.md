@@ -2,17 +2,17 @@
 title: 'Modelling of Railway Vehicle Dynamics: A Multi Body Analytical Approach'
 collection: projects
 permalink: /projects/Multibody/
+excerpt: ""
 ---
 
 
 
 ---
 
-
-
----
 *Supervisor: Prof. Nalinash S. Vyas*  
 [Project Report](https://drive.google.com/file/d/1HRnOQ6CRxI3XC5Q46GWOKkYyu66S9WP7/view?usp=sharing )
+
+---
   * Worked as a Student Research Associate at Mission Lab, IIT Kanpur   
   *	Lateral Dynamics - With given track – wheel geometry, contact patch co-ordinates were determined as a function of lateral perturbation by solving the kinematic equations. With geometry as input, equations of motion were solved iteratively on MATLAB to get forces at each time step and further estimate critical speed of stability
   *	Longitudinal Dynamics – Observed the response characteristics of the model of a railway coupler by varying source frequency, spring stiffness, draft gear friction and coupler slack
