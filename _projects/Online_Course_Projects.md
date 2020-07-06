@@ -10,7 +10,7 @@ This section includes all projects done on online platforms like Coursera.
 
 Supervised Learning using Deep Neural Networks 
 =====
-*Coursera Course: Neural Networks and Deep Learning*  *[Certification](https://www.exampleurl.com)*  
+*Coursera Course: Neural Networks and Deep Learning*  *[Certification](https://drive.google.com/file/d/1nf9TULRh7yX4LkQr76z_pKnyEOLJTq9H/view?usp=sharing)*  
 *Offered by: deeplearning.ai in their Deep Learning Specialization* 
 * Implemented a single hidden layer shallow neural network for binary classification of different types of data sets
 *	Trained the model for a dataset comprising of dots in the shape of a flower to get an accuracy of 91.25%
@@ -21,7 +21,7 @@ Supervised Learning using Deep Neural Networks
 
 Art Generation with Neural Style Transfer
 =====
-*Coursera Course: Convolutional Neural Networks*  *[Certification](https://www.exampleurl.com)*  
+*Coursera Course: Convolutional Neural Networks*  *[Certification](https://drive.google.com/file/d/19Rrb0IDeo_lUES_EEHMV_iq0hCC00zxT/view?usp=sharing)*  
 *Offered by: deeplearning.ai in their Deep Learning Specialization* 
 *	Used Neural Style Transfer on top of a pretrained VGG-19 network
 *	Merged style cost from multiple hidden layers and tuned the weights to get a final style cost function
@@ -34,7 +34,7 @@ Art Generation with Neural Style Transfer
 
 Car Detection with YOLO
 =====
-*Coursera Course: Convolutional Neural Networks*  *[Certification](https://www.exampleurl.com)*  
+*Coursera Course: Convolutional Neural Networks*  *[Certification](https://drive.google.com/file/d/19Rrb0IDeo_lUES_EEHMV_iq0hCC00zxT/view?usp=sharing)*  
 *Offered by: deeplearning.ai in their Deep Learning Specialization* 
 o	Dfdfdff
 o	ddvv
@@ -43,7 +43,7 @@ o	ddvv
 
 Face Recognition and Face Verification
 =====
-*Coursera Course: Convolutional Neural Networks*  *[Certification](https://www.exampleurl.com)*  
+*Coursera Course: Convolutional Neural Networks*  *[Certification](https://drive.google.com/file/d/19Rrb0IDeo_lUES_EEHMV_iq0hCC00zxT/view?usp=sharing)*  
 *Offered by: deeplearning.ai in their Deep Learning Specialization* 
 *	Used Keras to build a facial verification model for identifying whether the employee is having the correct ID Card and is indeed an employee
 *	Built upon a pretrained FaceNet model
