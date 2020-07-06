@@ -8,7 +8,7 @@ This section includes all major projects done in Graduate level courses.
 
 ---
 
-**1. Algorithm Study of Constrained and Unconstrained Optimization techniques**  
+1. **Algorithm Study of Constrained and Unconstrained Optimization techniques**  
    *Course: Optimization Methods*  
    *Project Supervisor: Prof. Bhaskar Dasgupta*  
       -> Analysed the performance of unconstrained optimization methods like Steepest Descent, DFP, BFGS and Powell’s Conjugate Direction.  
