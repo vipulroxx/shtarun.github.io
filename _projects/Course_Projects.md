@@ -9,7 +9,9 @@ This section includes all major projects done in Graduate level courses.
 ---
 
 1. **Algorithm Study of Constrained and Unconstrained Optimization techniques**
-   * *Course: Optimization Methods*     *Project Supervisor: Prof. Bhaskar Dasgupta*     *March 2019 - Arpil 2019*
+   *Course: Optimization Methods*
+   *Project Supervisor: Prof. Bhaskar Dasgupta*     
+   * *March 2019 - Arpil 2019*
      * Generated the optimal path using [SAT](http://minisat.se) and [SMT](https://rise4fun.com/Z3/tutorial/guide) based solver for multi robot motion planning with constraints
      * Implemented motion planner for multi robot using NuSMV model checker
      * Presented a paper on Sampling Based Motion Planning, a geometry-based, multilayered synergistic approach which involved LTL formula based temporal goals
