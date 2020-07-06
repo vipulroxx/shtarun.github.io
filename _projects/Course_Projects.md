@@ -16,7 +16,7 @@ Algorithm Study of Constrained and Unconstrained Optimization techniques
   * Studied the effect of different parameters like initial point, modality and concluded the global convergence on 50 different test functions.  
   * Linear and Quadratic Programming with Simplex, Active Set method and Lemke’s set method for multiple constraints was studied  
 
-/s  
+\s\s  
 
 Output feedback stabilisation of inverted pendulum
 =====
