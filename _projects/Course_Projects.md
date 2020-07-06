@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 'Course Projects'
 collection: projects
 permalink: /projects/course_projects/
 ---
