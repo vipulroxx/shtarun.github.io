@@ -10,14 +10,14 @@ This section includes all major projects done in Graduate level courses.
 
 1. **Algorithm Study of Constrained and Unconstrained Optimization techniques**  
    *March 2019 - April 2019*  
-   *Course: Optimization Methods*   *March 2019 - Arpil 2019*
+   *Course: Optimization Methods* &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp *March 2019 - Arpil 2019*
    * *Project Supervisor: Prof. Bhaskar Dasgupta*
    
       *	Analysed the performance of unconstrained optimization methods like Steepest Descent, DFP, BFGS and Powell’s Conjugate Direction.
       * Studied the effect of different parameters like initial point, modality and concluded the global convergence on 50 different test functions.
       *	Linear and Quadratic Programming with Simplex, Active Set method and Lemke’s set method for multiple constraints was studied
 
-2. Autonomous navigation
+2. Output feedback stabilisation of inverted pendulum 
    * **Landing of a VTOL UAV on a Vertically Oscillating Platform**
      * Designed a control structure that could achieve fast, safe and precise landing of a VTOL UAV onto a vertically oscillating landing pad
      * Implemented motion estimation of the system using Unscented Kalman Filter
