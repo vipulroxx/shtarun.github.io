@@ -12,9 +12,10 @@ This section includes all major projects done in Graduate level courses.
    *Course: Optimization Methods*
    *Project Supervisor: Prof. Bhaskar Dasgupta*     
    * *March 2019 - Arpil 2019*
-     * Generated the optimal path using [SAT](http://minisat.se) and [SMT](https://rise4fun.com/Z3/tutorial/guide) based solver for multi robot motion planning with constraints
-     * Implemented motion planner for multi robot using NuSMV model checker
-     * Presented a paper on Sampling Based Motion Planning, a geometry-based, multilayered synergistic approach which involved LTL formula based temporal goals
+     *	Analysed the performance of unconstrained optimization methods like Steepest Descent, DFP, BFGS and Powell’s Conjugate Direction.
+      * Studied the effect of different parameters like initial point, modality and concluded the global convergence on 50 different test functions.
+      *	Linear and Quadratic Programming with Simplex, Active Set method and Lemke’s set method for multiple constraints was studied
+
 2. Autonomous navigation
    * **Landing of a VTOL UAV on a Vertically Oscillating Platform**
      * Designed a control structure that could achieve fast, safe and precise landing of a VTOL UAV onto a vertically oscillating landing pad
