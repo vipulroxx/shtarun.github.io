@@ -17,5 +17,3 @@ permalink: /projects/Multibody/
   *	Imparted uncertainties like camber, yaw and toe in to the wheelset and used Simpack Post to visualise its motion behaviour  
   *	A curved track was made and the motion behaviour of wheelset was observed. This was done so as to see how the wheelset negotiates a radius of curvature.
   *	A beam with moving load was modelled in ANSYS APDL to see the motion behaviour of the rail track when the train is running on it.
-
----
