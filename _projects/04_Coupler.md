@@ -2,6 +2,7 @@
 title: 'Finite Element Analysis of Railway Couplers used in LHB Bogies'
 collection: projects
 permalink: /projects/BoringBar/
+excerpt: " "
 ---
 
 ---
