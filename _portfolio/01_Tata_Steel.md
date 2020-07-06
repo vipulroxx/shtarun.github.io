@@ -1,5 +1,5 @@
 ---
-title: "<img src='/images/Tata_Steel_Logo.png' width = 5>R&D, Tata Steel Ltd."
+title: "<img src='/images/Tata_Steel_Logo.png' width = "5">R&D, Tata Steel Ltd."
 excerpt: "Summer Internship : May 2017 - June 2017"
 collection: portfolio
 
