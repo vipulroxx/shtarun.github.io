@@ -17,11 +17,12 @@ This section includes all major projects done in Graduate level courses.
       * Studied the effect of different parameters like initial point, modality and concluded the global convergence on 50 different test functions.
       *	Linear and Quadratic Programming with Simplex, Active Set method and Lemke’s set method for multiple constraints was studied
 
-2. Output feedback stabilisation of inverted pendulum 
+2. **Output feedback stabilisation of inverted pendulum **  
    * **Landing of a VTOL UAV on a Vertically Oscillating Platform**
-     * Designed a control structure that could achieve fast, safe and precise landing of a VTOL UAV onto a vertically oscillating landing pad
-     * Implemented motion estimation of the system using Unscented Kalman Filter
-     * Implemented a PID controller to track the generated time-optimal reference trajectory considering all motion constraints
+      * Implemented the research paper, 'Output feedback stabilization of inverted pendulum on a cart in the presence of uncertainties'
+      * Investigated the singularly perturbed form of the closed loop system including Extended High Gain Observers.
+      * Used MATLAB and Visio to simulate and solve the steady state feedback equations and for Block Diagram visualization.
+
 3. Rail Road Vehicle Dynamics
    * **Rail Vehicle Stability**
      * Lateral Dynamics - With given track – wheel geometry, contact patch co-ordinates were determined as a function of lateral perturbation by solving the kinematic equations. With geometry as input, equations of motion were solved iteratively on Matlab to get forces at each time step and further estimate critical speed of stability
