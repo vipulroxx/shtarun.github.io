@@ -5,10 +5,10 @@ permalink: /projects/BoringBar/
 ---
 
 ---
-[Project Report](http://exampleurl.com)
 
 ---
-*Supersvisor: Prof. Mohit Law*
+*Supersvisor: Prof. Mohit Law*  
+[Project Report](http://exampleurl.com)
 * Worked as a Student Research Associate in Machine Tool Dynamics Lab, IIT Kanpur	
 *	Designed a Tuned Mass Damped Boring Bar and a Compression Holder using DS Solidworks
 *	Used CutPro for modal testing of the developed Tuned Mass Damped Boring Bar and an Eddy Current Damped Boring Bar
