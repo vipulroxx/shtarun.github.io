@@ -20,12 +20,17 @@ Algorithm Study of Constrained and Unconstrained Optimization techniques
 
 Output feedback stabilisation of inverted pendulum
 =====
+*Course: Basics of Modern Control*  
+*Project Supervisor: Prof. Ramprasad Potluri*  
  * Implemented the research paper, 'Output feedback stabilization of inverted pendulum on a cart in the presence of uncertainties'
  * Investigated the singularly perturbed form of the closed loop system including Extended High Gain Observers.
  * Used MATLAB and Visio to simulate and solve the steady state feedback equations and for Block Diagram visualization.
 
-3. Rail Road Vehicle Dynamics
-   * **Rail Vehicle Stability**
+<\br>
+
+Rail Road Vehicle Dynamics
+=====
+**Rail Vehicle Stability**
      * Lateral Dynamics - With given track – wheel geometry, contact patch co-ordinates were determined as a function of lateral perturbation by solving the kinematic equations. With geometry as input, equations of motion were solved iteratively on Matlab to get forces at each time step and further estimate critical speed of stability
      * Longitudinal Dynamics – Observed the response characteristics of the model of a railway coupler by varying source frequency, spring stiffness, draft gear friction and coupler slack
      * Software Modeling – Developed a model of rail-wheel pair in Simpack, and observed the motion in a straight track, by varying the wheel positions
