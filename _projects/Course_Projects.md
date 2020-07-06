@@ -10,8 +10,8 @@ This section includes all major projects done in Graduate level courses.
 
 Motion Planning of a 6 DOF Robot Arm Manipulator 
 =====
-*Course: Robot Motion Planning*   	
-*Project Supervisor: Prof. Ashish Dutta*
+*Course: Robot Motion Planning*  
+*Project Supervisor: Prof. Ashish Dutta*  
 *	Used MATLAB to find the C-Space of a 3DOF & 2DOF Robot arm with obstacles.
 *	Used sampling-based planners (A* Algorithm) for the path planning of a mobile robot in presence of obstacles.
 *	Used Rapidly Exploring Random trees for path planning of a mobile robot.
