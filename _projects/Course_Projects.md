@@ -1,5 +1,5 @@
 ---
-title: 'Course Projects'
+title: ''
 collection: projects
 permalink: /projects/course_projects/
 ---
@@ -12,17 +12,17 @@ Algorithm Study of Constrained and Unconstrained Optimization techniques
 ======
 *Course: Optimization Methods*  
 *Project Supervisor: Prof. Bhaskar Dasgupta*  
-
-======
   * Analysed the performance of unconstrained optimization methods like Steepest Descent, DFP, BFGS and Powell’s Conjugate Direction.  
   * Studied the effect of different parameters like initial point, modality and concluded the global convergence on 50 different test functions.  
   * Linear and Quadratic Programming with Simplex, Active Set method and Lemke’s set method for multiple constraints was studied  
 
-2. **Output feedback stabilisation of inverted pendulum **  
-   * **Landing of a VTOL UAV on a Vertically Oscillating Platform**
-      * Implemented the research paper, 'Output feedback stabilization of inverted pendulum on a cart in the presence of uncertainties'
-      * Investigated the singularly perturbed form of the closed loop system including Extended High Gain Observers.
-      * Used MATLAB and Visio to simulate and solve the steady state feedback equations and for Block Diagram visualization.
+/s  
+
+Output feedback stabilisation of inverted pendulum
+=====
+ * Implemented the research paper, 'Output feedback stabilization of inverted pendulum on a cart in the presence of uncertainties'
+ * Investigated the singularly perturbed form of the closed loop system including Extended High Gain Observers.
+ * Used MATLAB and Visio to simulate and solve the steady state feedback equations and for Block Diagram visualization.
 
 3. Rail Road Vehicle Dynamics
    * **Rail Vehicle Stability**
