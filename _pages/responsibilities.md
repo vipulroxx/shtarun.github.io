@@ -13,13 +13,15 @@ President, Association of Mechanical Engineers, IIT Kanpur
 * Spearheaded a 3 tier team of 15 PG and UG students for efficient management of logistics and interactions between 700+ students & 45+ faculties
 * Responsible for all interactions with faculties and students
   
-  
+<br>  
   
 Orientation Team Member, Counselling Service, IIT Kanpur
 ======
 *July 2019 – August 2019*
 * Assisted Core team in the smooth conduction of 8-day long Orientation Program for 1000+ 1st  year PG students
 * Involved in Hall Allocation and CC-PI of more than 1000 students
+
+<br>
 
 Senior Executive, Start-up Internship Program, Entrepreneurship Cell, IIT Kanpur
 ======
