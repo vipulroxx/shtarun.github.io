@@ -9,10 +9,11 @@ This section includes all major projects done in Graduate level courses.
 ---
 
 1. **Algorithm Study of Constrained and Unconstrained Optimization techniques**
-   *Course: Optimization Methods*
-   *Project Supervisor: Prof. Bhaskar Dasgupta*     
    * *March 2019 - Arpil 2019*
-     *	Analysed the performance of unconstrained optimization methods like Steepest Descent, DFP, BFGS and Powell’s Conjugate Direction.
+   * *Course: Optimization Methods*
+   * *Project Supervisor: Prof. Bhaskar Dasgupta*     
+   
+      *	Analysed the performance of unconstrained optimization methods like Steepest Descent, DFP, BFGS and Powell’s Conjugate Direction.
       * Studied the effect of different parameters like initial point, modality and concluded the global convergence on 50 different test functions.
       *	Linear and Quadratic Programming with Simplex, Active Set method and Lemke’s set method for multiple constraints was studied
 
