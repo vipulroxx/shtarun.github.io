@@ -8,7 +8,7 @@ excerpt: "B.Tech. Project"
  
 
 ---
-*Supersvisor: Prof. Mohit Law*  
+*Project Supersvisor: Prof. Mohit Law*  
 [Project Report](https://drive.google.com/file/d/1q4Hucc7w1p4u06vAroBi27jYlBvuUdpu/view?usp=sharing)
 
 ---
