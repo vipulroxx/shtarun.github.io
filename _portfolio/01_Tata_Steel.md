@@ -1,5 +1,5 @@
 ---
-title: "<img src='/images/500x300.png' width = "20">R&D, Tata Steel Ltd."
+title: "<img src='/images/500x300.png' width="20">R&D, Tata Steel Ltd."
 excerpt: "Summer Internship : May 2017 - June 2017"
 collection: portfolio
 
