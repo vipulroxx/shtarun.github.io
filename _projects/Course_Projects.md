@@ -10,8 +10,7 @@ This section includes all major projects done in Graduate level courses.
 
 1. **Algorithm Study of Constrained and Unconstrained Optimization techniques**
    * *March 2019 - April 2019*
-   *Course: Optimization Methods*|a|*March 2019 - Arpil 2019*
-   --|--|--
+   * *Course: Optimization Methods* &nsbp &nsp &nsbp &nsp &nsbp &nsp &nsbp &nsp*March 2019 - Arpil 2019*
    * *Project Supervisor: Prof. Bhaskar Dasgupta*
    
       *	Analysed the performance of unconstrained optimization methods like Steepest Descent, DFP, BFGS and Powell’s Conjugate Direction.
