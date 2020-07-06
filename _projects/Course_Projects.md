@@ -8,6 +8,16 @@ This section includes all major projects done in Graduate level courses.
 
 ---
 
+Motion Planning of a 6 DOF Robot Arm Manipulator 
+=====
+*Course: Robot Motion Planning*   	
+*Project Supervisor: Prof. Ashish Dutta*
+*	Used MATLAB to find the C-Space of a 3DOF & 2DOF Robot arm with obstacles.
+*	Used sampling-based planners (A* Algorithm) for the path planning of a mobile robot in presence of obstacles.
+*	Used Rapidly Exploring Random trees for path planning of a mobile robot.
+
+<br>
+
 Algorithm Study of Constrained and Unconstrained Optimization techniques
 ======
 *Course: Optimization Methods*  
@@ -16,6 +26,7 @@ Algorithm Study of Constrained and Unconstrained Optimization techniques
   * Studied the effect of different parameters like initial point, modality and concluded the global convergence on 50 different test functions.  
   * Linear and Quadratic Programming with Simplex, Active Set method and Lemke’s set method for multiple constraints was studied  
 
+<br>
 
 Output feedback stabilisation of inverted pendulum
 =====
@@ -27,25 +38,23 @@ Output feedback stabilisation of inverted pendulum
 
 <br>
 
-Rail Road Vehicle Dynamics
+Helicopter Coupled Trim Analysis using MATLAB for a UH-60A Black Hawk helicopter
 =====
-**Rail Vehicle Stability**
-     * Lateral Dynamics - With given track – wheel geometry, contact patch co-ordinates were determined as a function of lateral perturbation by solving the kinematic equations. With geometry as input, equations of motion were solved iteratively on Matlab to get forces at each time step and further estimate critical speed of stability
-     * Longitudinal Dynamics – Observed the response characteristics of the model of a railway coupler by varying source frequency, spring stiffness, draft gear friction and coupler slack
-     * Software Modeling – Developed a model of rail-wheel pair in Simpack, and observed the motion in a straight track, by varying the wheel positions
-4. Basics of Modern control
-   * **Nonlinear Feedback Control for Autonomous Vehicles**
-     * Implemented the research paper, 'Composite Nonlinear Feedback Control for Path Following of Four-Wheel Independently Actuated Autonomous Ground Vehicles'(AGVs')
-     * Investigated  the path-following control problem for AGVs through integrated control of active front-wheel steering and direct yaw-moment control
-     * Applied modified composite non-linear feedback strategy to improve the transient performance and eliminate the steady-state errors in path-following control
-5. Vibration of Continuous Systems
-   * **Nonlinear Control of Flexible Manipulators**
-     * Designed a strain feedback nonlinear control for joint-PD controlled single-link flexible manipulator to improve tip regulation performance
-     * Solved the modal problem for a beam with tip mass and base moment for first four modes
-     * Simulated the PD controller and nonlinear strain feedback controller for various gains in MATLAB
-6. Virtual Instrumentation
-   * **Modal Testing and Analysis Software**
-     * Developed a GUI-based software for Modal Testing and Analysis using LabVIEW
-     * Performed frequency analysis and system identification using DAQ and Signal Processing tools   
+*Course: Helicopter Dynamics & Aeroelasticity*  
+*Project Supervisor: Prof. Abhishek*  
+* Programmed a numerical solution to the combined blade-element/momentum theory (BEMT)
+*	Used Newmark’s algorithm to solve the flap response equation numerically in a coupled trim solution.
+*	Calculated all the blade hub shear forces and moments in the rotating frame of reference as a function of azimuth for a uniform inflow.
+*	Performed the free flight coupled trim analysis for the same helicopter and found the variation of control angles, vehicle shaft angles and non-dimensional mean hub loads vs forward speed
+
+<br>
+     
+Document Shredder & Automated Box Shifting Mechanism
+=====
+*Courses: TA201A & TA202A* 	
+*Project Supervisors: Prof. S.K. Choudhary, Prof. Rajiv Shekhar*
+* Deployed SolidWorks 2016 and AutoCAD 2015 for modelling the mechanisms.
+*	Designed and fabricated the working prototypes using CNC machine, Lathe machine and Drilling machine.
+*	Made a Costing Report, Business Plan and Marketing Brochure for the developed prototypes of the mechanisms.
 
 ---
