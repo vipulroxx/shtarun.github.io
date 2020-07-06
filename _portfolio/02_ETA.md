@@ -11,4 +11,4 @@ collection: portfolio
 *	Fixed, redesigned and did failure analysis of a broken Chamfering tool
 *	Used power recirculation to design a Four-Square Test Rig, for testing 4 components parallelly to simulate realistic loading and articulation conditions to test the performance and endurance of transmission elements
 
-
+<br/><br/>
