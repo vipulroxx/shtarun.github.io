@@ -8,7 +8,7 @@ permalink: /projects/Multibody/
 
 ---
 
-[Project Report]("https://drive.google.com/file/d/1HRnOQ6CRxI3XC5Q46GWOKkYyu66S9WP7/view?usp=sharing")
+[Project Report]('https://drive.google.com/file/d/1HRnOQ6CRxI3XC5Q46GWOKkYyu66S9WP7/view?usp=sharing')
 
 ---
 *Supervisor: Prof. Nalinash S. Vyas*
