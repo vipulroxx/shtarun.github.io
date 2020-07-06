@@ -7,7 +7,6 @@ permalink: /projects/Multibody/
 
 ---
 
-Project Description
 ---
   * Worked as a Student Research Associate under Prof. Nalinaksh S. Vyas at Mission Lab, IIT Kanpur   
   *	Lateral Dynamics - With given track – wheel geometry, contact patch co-ordinates were determined as a function of lateral perturbation by solving the kinematic equations. With geometry as input, equations of motion were solved iteratively on MATLAB to get forces at each time step and further estimate critical speed of stability
