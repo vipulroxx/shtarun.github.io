@@ -8,7 +8,7 @@ excerpt: "B.Tech. Project"
  
 
 ---
-
+[Project Report](http://exampleurl.com)
 ---
 *Supersvisor: Prof. Mohit Law*
 *	Developed the 1st generation of a highly compact & cheap Moving Iron Type Actuator to provide a force output of 100N to be used as active damping devices
