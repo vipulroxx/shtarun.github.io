@@ -51,7 +51,7 @@ Helicopter Coupled Trim Analysis using MATLAB for a UH-60A Black Hawk helicopter
      
 Document Shredder & Automated Box Shifting Mechanism
 =====
-*Courses: TA201A & TA202A* 	
+*Courses: TA201A, TA202A* 	
 *Project Supervisors: Prof. S.K. Choudhary, Prof. Rajiv Shekhar*  
 * Deployed SolidWorks 2016 and AutoCAD 2015 for modelling the mechanisms.
 *	Designed and fabricated the working prototypes using CNC machine, Lathe machine and Drilling machine.
