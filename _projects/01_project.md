@@ -1,12 +1,11 @@
 ---
 title: 'Supervised Learning using Deep Neural Networks'
 collection: projects
-permalink: /projects/01_/
+permalink: /projects/DNN/
 ---
 
 ---
 
-<!--*[Report](http://shtarun.github.io/files/AME_Annual_Report_2019_2020.pdf)*-->
 Project Description
 ---
 * Implemented a single hidden layer shallow neural network for binary classification of different types of data sets
