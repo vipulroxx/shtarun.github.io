@@ -16,7 +16,6 @@ Algorithm Study of Constrained and Unconstrained Optimization techniques
   * Studied the effect of different parameters like initial point, modality and concluded the global convergence on 50 different test functions.  
   * Linear and Quadratic Programming with Simplex, Active Set method and Lemke’s set method for multiple constraints was studied  
 
-\s\s  
 
 Output feedback stabilisation of inverted pendulum
 =====
@@ -26,7 +25,7 @@ Output feedback stabilisation of inverted pendulum
  * Investigated the singularly perturbed form of the closed loop system including Extended High Gain Observers.
  * Used MATLAB and Visio to simulate and solve the steady state feedback equations and for Block Diagram visualization.
 
-<\br>
+<br>
 
 Rail Road Vehicle Dynamics
 =====
