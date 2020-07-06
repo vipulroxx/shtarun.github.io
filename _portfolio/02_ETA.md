@@ -1,6 +1,6 @@
 ---
 title: " <img src='/images/ETA_Logo_H200.png'><br/><br/> ETA Technologies, Bengaluru"
-excerpt: "Summer Internship : May 2018 - June 2018"
+excerpt: "Summer Internship : May 2018 - June 2018<br/><br/>"
 collection: portfolio
 
 ---
